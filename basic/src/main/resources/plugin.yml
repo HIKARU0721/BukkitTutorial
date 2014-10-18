@@ -1,0 +1,16 @@
+name: Basic
+version: 1.7.10-R0.1-SNAPSHOT
+description: Basic plugin for Bukkit.
+load: POSTWORLD
+author: HIKARU0721
+authors:
+website: http://www.hikaru0721.com/
+main: com.hikaru0721.basic.Basic
+database: false
+prefix: Basic
+depend:
+softdepend:
+loadbefore:
+commands:
+permissions:
+default-permission: OP
